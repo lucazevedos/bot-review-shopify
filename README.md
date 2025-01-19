@@ -160,7 +160,7 @@ COLLECTION_ID=476921200918
 ## Logs de Erro
 - Os logs de erro são gravados em `error_reviews.json`.  
 - Se o arquivo não existir ou estiver vazio, ele é criado quando ocorre o primeiro erro.  
-- Cada objeto no JSON contém `productId`, `review` e mensagem de erro retornada pela API ou pelo Node.
+- Cada objeto no JSON contém `productId`, `review` e mensagem de erro retornada pela API.
 
 ---
 
